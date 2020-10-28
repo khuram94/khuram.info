@@ -1,2 +1,2 @@
-# barber-shop
-Project for Billu Barber
+# khuram.info
+Project for Khuram's portfolio
